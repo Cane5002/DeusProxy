@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4fbb77f253394c42aa444645a966a7f, type: 3}
+  m_Name: Pride_5P
+  m_EditorClassIdentifier: 
+  Name: 5P
+  Animation: {fileID: 7400000, guid: 86f38d097f3b14349845e28e1fa541c9, type: 2}
+  Moveset: 0
+  Level: 0
+  Type: 1
+  AirOK: 0
+  GroundOK: 1
+  Armor: 0
+  Invincible: 0
+  ATKCancel_OK: 0
+  HVYCancel_OK: 0
+  SPCancel_OK: 0
+  SUPERCancel_OK: 0
+  CONDCancel_OK: 0
+  show: 1
+  showProps: 0
+  Input: 0a000000
